@@ -74,11 +74,4 @@ npm start
 
 ---
 
-## 🙌 Author & Contact
-
-- 👨‍💻 **GitHub:** [github.com/satishkoppanathi](https://github.com/satishkoppanathi)  
-- 💼 **LinkedIn:** [linkedin.com/in/satishkoppanathi](https://linkedin.com/in/satishkoppanathi)
-
----
-
 > 📌 *This project is a full-fledged UI prototype ready for backend integration. Ideal for frontend portfolios or UI/UX case studies.*
