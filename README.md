@@ -16,7 +16,7 @@ A responsive, modern web application for a food delivery service built entirely 
 
 ## ✨ Features
 
-- 🧾 View food items with details (image, price, title, category)  
+- 🧾 View food items with details (image, price,rating, title, category)  
 - 🛒 Add/remove items from cart and view real-time total  
 - 🔍 Search & filter menu by name/category  
 - 📱 Fully responsive layout for all devices  
